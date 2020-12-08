@@ -1,5 +1,5 @@
 <template>
-  <div>Hello Vue</div>
+  <div>App</div>
 </template>
 
 <script>
@@ -7,8 +7,10 @@ export default {
   data() {
     return {};
   },
+  created() {},
+  methods: {},
 };
 </script>
 
-<style>
+<style lang="less" scoped>
 </style>
